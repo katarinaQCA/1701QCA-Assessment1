@@ -15,11 +15,11 @@ Say "HELLO" to the BBC micro:bit!
 
 ![Image](Say hello.heic)
 
-(Insert a caption here)
+1st Experiment 
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something I learned was how to use a push switch and also the male to female jumper wire which was new to me. 
 
 This experiment could be the basis of a real world application such as (insert something here).
 
