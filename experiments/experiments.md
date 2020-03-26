@@ -8,12 +8,12 @@
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Say "HELLO" to the BBC micro:bit!
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](Say hello.heic)
 
 (Insert a caption here)
 
