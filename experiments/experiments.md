@@ -47,47 +47,47 @@ Dimming An Led Using Potentiometer
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image]()
+![Image](Led.heic)
 
-(Insert a caption here)
+Experiment 3
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was learning how to use a Potenmeter, Push Switch and a Red 5mm LED.
 
 This experiment could be the basis of a real world application such as (insert something here).
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Using a Transistor To Drive a Motor
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Motor.heic)
 
-(Insert a caption here)
+Experiment 4
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I learned how to use a Transistor, Motor, 2.2k Resistor, Fan Blade and a Terminal Connector, this experiment in particular I found was the hardest to work as the wires that were required to be connected are fiddly and fragile which made it hard to stay connected to the terminal connector. 
 
 This experiment could be the basis of a real world application such as (insert something here).
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Setting The Tone With A Piezo Buzzer 
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Buzzer.heic)
 
-(Insert a caption here)
+Experiment 6
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was trying to figure out how to use the Piezo Element Buzzer. I had a bit of difficulty inserting the buzzer into the certain pins as I had to estimate which ones to insert it into roughly as the numbers on the board were'nt particulary visible in the diagram.
 
 This experiment could be the basis of a real world application such as (insert something here).
 
