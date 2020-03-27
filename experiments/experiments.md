@@ -8,7 +8,7 @@
 
 ### Experiment name ###
 
-Say "HELLO" to the BBC micro:bit!
+Say "HELLO" To The BBC micro:bit!
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
@@ -25,29 +25,29 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Using A Light Sensor & Analog Inputs 
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image] (Light sensor.heic)
 
-(Insert a caption here)
+Experiment 2
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was lerning how to use a Phototransistor and a 10k Resitor 
 
 This experiment could be the basis of a real world application such as (insert something here).
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Dimming An Led Using Potentiometer
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image]()
 
 (Insert a caption here)
 
